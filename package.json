@@ -1,6 +1,6 @@
 {
   "name": "configdata-to-html",
-  "version": "1.0.0",
+  "version": "1.0.9",
   "description": "config data to transform to html",
   "main": "index.js",
   "scripts": {
